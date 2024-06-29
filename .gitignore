@@ -1,0 +1,11 @@
+gpg_secret_key/
+github-recovery-codes.txt
+passwords.txt
+config
+ssh_private_key/
+Proton/Account_key_private_key.asc
+Proton/Email_encryption_private_key.asc
+Proton/Proton_Recovery_Phrase.txt
+Proton/proton_recovery.asc
+old/
+Monero/
